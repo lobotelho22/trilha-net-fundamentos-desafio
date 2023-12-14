@@ -36,3 +36,5 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+> As Soluções do código, basicamente, foram a implementação das features de construção da lista de cadastro dos veículos, remoção dos veículos e listagem dos veículos.
